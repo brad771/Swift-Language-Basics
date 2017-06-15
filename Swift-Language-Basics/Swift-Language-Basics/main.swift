@@ -24,7 +24,7 @@ var name: String = "Karen"
 var force: Float = Mass * acceleration
 var age: Int = 0
 
-if sample1 != sample2 {
+if sample1 == sample2 {
     print("The samples are equal")
 } else {
     print("The samples are not equal")
